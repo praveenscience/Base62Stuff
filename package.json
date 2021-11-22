@@ -1,0 +1,16 @@
+{
+  "name": "base-enc",
+  "version": "1.0.0",
+  "description": "Chumma checking stuff.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "base62": "^1.2.8",
+    "nodemon": "^2.0.15"
+  }
+}
